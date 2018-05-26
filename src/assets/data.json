@@ -1,0 +1,69 @@
+{
+    "nodes": [{
+              "nodeId": 0,
+              "name": "node0"
+          }, {
+              "nodeId": 1,
+              "name": "node1"
+          }, {
+              "nodeId": 2,
+              "name": "node2"
+          }, {
+              "nodeId": 3,
+              "name": "node3"
+          }, {
+              "nodeId": 4,
+              "name": "node4"
+          },
+          {
+              "nodeId": 5,
+              "name": "node5"
+          }, {
+            "nodeId": 6,
+              "name": "node6"
+          }
+        ],
+    "links": [
+        {
+            "source": 1,
+            "target": 5,
+            "value": 1,
+            "uom": "'Widget(s)'"
+        },{
+            "source": 2,
+            "target": 5,
+            "value": 1,
+            "uom": "'Widget(s)'"
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 1,
+            "uom": "'Widget(s)'"
+        },{
+            "source": 4,
+            "target": 5,
+            "value": 1,
+            "uom": "'Widget(s)'"
+        },{
+            "source": 6,
+            "target": 5,
+            "value": 1,
+            "uom": "'Widget(s)'"
+        }, {
+            "source": 0,
+            "target": 1,
+            "value": 1,
+            "uom": "'Widget(s)'"
+        }, {
+            "source": 0,
+            "target": 2,
+            "value": 1,
+            "uom": "'Widget(s)'"
+        }, {
+            "source": 0,
+            "target": 3,
+            "value": 1,
+            "uom": "'Widget(s)'"
+        }]
+}
